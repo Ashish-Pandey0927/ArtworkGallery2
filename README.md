@@ -36,13 +36,16 @@ Login:
 
 Choose between logging in as an admin or a visitor.
 Admins can manage artworks, while visitors can explore and purchase.
+
+
 Group Members
 The Artwork Gallery Management System project was developed by the following group members:
 
-Ashish Pandey
-Md. Ayan
-Utkarsh Sharma
-Subir Sharkar
+[ Ashish Pandey
+  Md. Ayan
+  Utkarsh Sharma
+  Subir Sharkar ]
+
 Technologies Used
 Java: Core programming language for application development.
 Database: Integration with a relational database for secure data storage.
